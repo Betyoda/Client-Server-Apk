@@ -8,7 +8,7 @@ This is a simple client-server application implemented in Java that allows real-
 
 - Two-way communication between the server and client.
 - Supports ongoing conversation.
-- Exits gracefully when either party types "exit".
+- Exits gracefully when either party types "stop".
 
 ## Prerequisites
 
